@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
-import Calendar from "./components/Calendar";
-import EventModal from "./components/EventModal";
-import Filter from "./components/Filter";
-import ExportEvents from "./components/ExportEvents";
-import Sidebar from "./components/Sidebar"; // Import Sidebar
+import Calendar from "./Components/Calendar";
+import EventModal from "./Components/EventModal";
+import Filter from "./Components/Filter";
+import ExportEvents from "./Components/ExportEvents";
+import Sidebar from "./Components/Sidebar"; // Import Sidebar
 import "./App.css";
 
 const App = () => {
