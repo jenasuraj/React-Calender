@@ -24,7 +24,7 @@
 <h3>Installation</h3>
 <ol>
   <li>Clone the repository:</li>
-=
+
 
   <li>Navigate to the project directory:</li>
   <pre><code>cd react-calendar</code></pre>
